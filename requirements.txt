@@ -1,0 +1,5 @@
+gymnasium[atari, accept-rom-license]
+torch
+opencv-python-headless
+ale-py
+moviepy
