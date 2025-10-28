@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local files
+.DS_Store
+*.local
+
+# Generated media
+videos/
+*.mp4
+
+# Don't track all model checkpoints, only the final one
+*.pth
